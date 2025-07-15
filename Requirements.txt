@@ -1,0 +1,3 @@
+pandas==2.0.3  # For data loading and manipulation
+scikit-learn==1.3.0  # For preprocessing, model selection, and evaluation
+catboost==1.2.2  # For the primary multi-output regression model
